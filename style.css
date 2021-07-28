@@ -215,8 +215,9 @@ h2{
     text-align: left;
     border: 1px solid wheat;
 }
+/* Contact Me part CSS end */
 
-
+/* Footer CSS Start */
 footer{
     height: 200px;
     background-color:#0B0D17;
@@ -234,3 +235,4 @@ footer p{
     text-align: center;
     color: white;
 }
+/* Footer CSS End */
